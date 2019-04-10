@@ -1,0 +1,4 @@
+- src: https://github.com/tower-multicloud-demo/role-app.git
+  version: master
+  name: role-app
+
